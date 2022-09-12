@@ -6,6 +6,10 @@ Nozzles design for LDM 3D printing
 
 ![Poster](docs/imgs/static/SLA_nozzles_3d.png)
 
+Nozzle for printing pipes:
+
+![Poster](docs/imgs/static/TubularNozzle_3d_model.png)
+
 
 **Dynamic nozzles:**
 
